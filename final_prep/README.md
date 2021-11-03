@@ -5,8 +5,8 @@ Congrats on making it to the Mod 0 Final Prep! Complete the final exercises belo
 
 You've learned a ton about some of the core foundations of Javascript! Show us how far you've come by completing the following exercises! You will be using your work from these exercises in your first day of Mod 1! 
 
-- [ ] Complete the [Mod Zero Hero Challenge](./mod_zero_hero.rb)
-- [ ] Complete the [Annotation Challenge](./annotations.rb)
+- [x] Complete the [Mod Zero Hero Challenge](./mod_zero_hero.rb)
+- [x] Complete the [Annotation Challenge](./annotations.rb)
 
 ### Refactor Previous Work
 You've learned A LOT over the last few weeks as it relates to technical content - chances are, you probably have some code from your previous exercises that is either sloppy, incorrect, poorly named, etc. Before starting Mod 1, we want you to `refactor` your code - which is the process of adjusting or improving your code for readability and accuracy. 
@@ -33,24 +33,29 @@ In Mod 0 you've learned about different techniques for managing your time at Tur
 When you are finished, add screenshots of your calendar so we can provide feedback if needed!
 
 - `Add Week 1 Screenshot Here`
+- ![53A68064-1AFB-46CA-8BE5-4E717F9B1565](https://user-images.githubusercontent.com/92329376/139558927-287d0565-6bf9-4415-ae37-9e5b76648e69.png)
+
 - `Add Week 2 Screenshot Here`
-- `Add Week 3 Screenshot Here`
+- ![image](https://user-images.githubusercontent.com/92329376/139559051-ff8f0fbb-a8e2-4819-a909-3507d2e95dca.png)
+- 
+- - `Add Week 3 Screenshot Here`
+- ![image](https://user-images.githubusercontent.com/92329376/139559004-410491d8-b7b8-4d37-be46-71fc8dee487b.png)
+
 
 ### Mentorship Prep
 Mentorship is an integral part of the Turing experience and will help jumpstart your technical career. In order to get your mentor relationship started on the right foot, please complete the following deliverables:
 - [ ] Complete the [Mentorship DTR Prep](https://gist.github.com/ericweissman/51965bdcbf42970d43d817818bfaef3c)
-  - [ ] Add link to your gist here: 
+  - [ ] Add link to your gist here: https://gist.github.com/MWagner3/91240d8fa3e5a2ac91c8e6bbffabc4c5
 
 ### Lesson Prep
 You've learned a lot about how to take strong notes during Mod 0. Show us your skills while you learn how to pre-teach content for your first lesson in Mod 1!
 - [ ] Complete the [Pre Teaching Practice exercise](https://gist.github.com/ericweissman/0036e8fe272c02bd6d4bb14f42fd2f79) gist
-  - [ ] Add a link to your gist here:
+  - [ ] Add a link to your gist here:https://gist.github.com/MWagner3/38b53f9187f67dc83f98f09b54f1137a
 
 ### Group Work Prep
 As part of Turing's project-based learning approach, you will often be working in pairs or larger groups. In order to set yourself (and your team) up for success, it is important to ensure you are prepared to be an equitable contributor and teammate.
 - [ ] Complete the [DTR Guiding Questions](https://gist.github.com/ericweissman/c56f3a98cdce761808c21d498a52f5c6)
-  - [ ] Add a link to your gist here: 
-
+  - [ ] Add a link to your gist here: https://gist.github.com/MWagner3/f56b5c0752df1afd570ab45b1a8f8593
 ## All Done? How to Submit your M1 Prework
 When you have completed *all* the activities described above, follow the steps below to submit your technical prework.
 
